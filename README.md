@@ -1,2 +1,2 @@
 # heroku-bot
-Bot de Telegram implementado con la librería python-telegram-bot para ser utilizado como ejemplo en un taller de despliegue de aplicaciones Python con Heroku.
+Base project for python telegram bots implemented with library https://python-telegram-bot.org/ to be deployed at http://www.heroku.com
